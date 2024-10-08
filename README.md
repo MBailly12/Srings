@@ -1,2 +1,2 @@
-# Srings
+# Strings
 Classwork on Python Strings
